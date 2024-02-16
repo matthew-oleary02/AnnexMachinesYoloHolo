@@ -1,2 +1,2 @@
 # AnnexMachinesYoloHolo
-Modified YoloHolo that detects engineering machines for educational purposes
+Modified YoloHolo (by LocalJoost) that detects engineering machines with a YOLOv8 model for educational purposes. Will update more when this project is complete.
