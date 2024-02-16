@@ -1,2 +1,2 @@
 # AnnexMachinesYoloHolo
-Modified YoloHolo that detects engineering machines for educational purposed
+Modified YoloHolo that detects engineering machines for educational purposes
